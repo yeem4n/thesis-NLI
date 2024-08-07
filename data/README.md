@@ -1,0 +1,3 @@
+This folder can be used to store the datasets. The thesis made use of the TOEFL11, ICLE-NLI (a subset of the International Corpus of Learner English) and The Varieties of English for Specific Purposes dAtabase (VESPA) datasets. The dataset can be accessed and downloaded via the following website: https://corpora.uclouvain.be/catalog/en/corpus/vespa. 
+
+M. Paquot, T. Larsson, H. Hasselgård, S. O. Ebeling, D. D. Meyere, L. Valentin, N. J. Laso, I. Verdaguer, and S. van Vuuren. The varieties of english for specific purposes database (vespa): Towards a multi-l1 and multi-register learner corpus of disciplinary writing. Research in Corpus Linguistics, 10:1–15, 2022. ISSN 2243-4712. doi: 10.32714/ricl.10.02.02.
