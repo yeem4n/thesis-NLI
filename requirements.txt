@@ -8,3 +8,4 @@ matplotlib == 3.7.1
 imbalanced-learn == 0.12.3
 numpy == 1.26.4
 tiktoken == 0.7.0
+unsloth == 2024.8
