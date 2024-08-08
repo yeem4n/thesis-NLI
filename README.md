@@ -1,3 +1,8 @@
+Title: A Comparative Study of Open-Source and Closed-Source Large Language Models for Native Language Identification
+Name: Yee Man Ng
+Vrije Universiteit Amsterdam
+13 August 2024
+
 # thesis-NLI
 This GitHub repository contains the code used for the experiments conducted in the Masters thesis project titled "A Comparative Study of Open-Source and Closed-Source Large Language Models for Native Language Identification", by Yee Man Ng, under supervision of dr. Ilia Markov at the Vrije Universiteit Amsterdam. 
 
